@@ -33,4 +33,6 @@ This objective was to learn how real networks function as you want to prevent ro
 <img width="547" height="93" alt="image" src="https://github.com/user-attachments/assets/8c97c966-c993-4e20-8169-c4a0787a3b3a" />
 <br>
 <img width="544" height="54" alt="image" src="https://github.com/user-attachments/assets/ee46d619-cf89-49b8-9bea-b915296ec2ee" />
-
+<br>
+ARP requests only exist at Layer 2 in which hosts must be directly connected. Because R1 (10.10.10.1) isn't directly connected to R3 (10.10.20.1), it does not have an entry in its ARP cache, and vice versa. R1 can reach R3 via R2's IP address 10.10.10.2, which is included in R1's arp cache.
+Because R2 is directly connected to both R1 and R3, both entries show up in its arp cache.
