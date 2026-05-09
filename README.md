@@ -1,15 +1,15 @@
 # DNS Configuration
 
-### Overview
+### Overview:
 Configuring routers as DNS clients and observing ARP caches.
 
-### What I configured
+### What I configured:
 3 Routers to be DNS clients.
 
-### Skills demonstrated
+### Skills demonstrated:
 Cisco IOS, DNS, ARP cache
 
-### Screenshots
+### Screenshots:
 #### Topology
 <img width="808" height="453" alt="image" src="https://github.com/user-attachments/assets/f2449425-e0db-41e5-8c34-27cca8f6ebd7" />
 <br><br>
