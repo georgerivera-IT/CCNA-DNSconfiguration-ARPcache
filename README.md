@@ -28,6 +28,7 @@ After configuring all routers to use 10.10.10.10 as their DNS server with the co
 This objective was to learn how real networks function as you want to prevent routers blindly broadcasting DNS requests.
 
 ### ARP Cache
+
 <img width="707" height="138" alt="image" src="https://github.com/user-attachments/assets/85103d6e-b3d7-43e7-9ebf-ac4e3f46c61c" />
 <img width="547" height="93" alt="image" src="https://github.com/user-attachments/assets/8c97c966-c993-4e20-8169-c4a0787a3b3a" />
 <img width="544" height="54" alt="image" src="https://github.com/user-attachments/assets/ee46d619-cf89-49b8-9bea-b915296ec2ee" />
