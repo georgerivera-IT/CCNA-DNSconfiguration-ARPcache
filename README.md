@@ -14,7 +14,7 @@ Cisco IOS, DNS, ARP cache
 <img width="808" height="453" alt="image" src="https://github.com/user-attachments/assets/f2449425-e0db-41e5-8c34-27cca8f6ebd7" />
 <br><br>
 
-#### IOS Configuration
+#### Initial Ping
 <img width="486" height="198" alt="image" src="https://github.com/user-attachments/assets/7d13daf2-2075-423c-8f4f-38f2bb0be73e" />  
 <br>
 Although R1 can ping R2 and R3, the IOS is broadcasting the DNS query to the entire subnet, rather than sending it to the dedicated DNS server. This is because by default Cisco IOS routers broadcast DNS requests to 255.255.255.255 when attempting to ping a hostname, as evident in the screenshot. 
